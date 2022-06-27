@@ -1,7 +1,5 @@
 # docker_host_systems
 
-Troglobyte CI (template dummy host system using a Docker)
-
 ## overview
 
 Containerization is a system of intermodal freight transport
